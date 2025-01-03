@@ -8,8 +8,8 @@ est_etudiant = False
 # Affichage des valeurs et des noms de variables
 print(f"Nom: {nom}")
 print(f"Age: {age}")
-print(f"Taille: {taille}"
-print(f"Est étudiant: {est_etudiant}"
+print(f"Taille: {taille}")
+print(f"Est étudiant: {est_etudiant}")
 
 # Affichage du type de variables
 print(f"Type nom: {type(nom)}")
